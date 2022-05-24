@@ -1,13 +1,8 @@
 # Final Project
 
-Team 19: AJHJ
-
 | Name | NUID | Email|
 | ---------- | ---------- | ---------- |
-| Sheng-Jung Chen | 002981985 | chen.shengju@northeastern.edu |
-| Chun Lee | 002144061 | lee.chun@northeastern.edu |
 | Haoyang Hu | 001005743 | hu.haoy@northeastern.edu |
-| Hanwen Jiang | 002199242 | jiang.hanw@northeastrn.edu |
 
 ## Project Description
 
