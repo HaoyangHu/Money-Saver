@@ -1,8 +1,8 @@
 # Final Project
 
-| Name | NUID | Email|
-| ---------- | ---------- | ---------- |
-| Haoyang Hu | 001005743 | hu.haoy@northeastern.edu |
+| Name | Email|
+| ---------- | ---------- |
+| Haoyang Hu | hu.haoy@northeastern.edu |
 
 ## Project Description
 
